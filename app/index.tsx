@@ -4,7 +4,7 @@ import React from 'react'
 const Index = () => {
   return (
     <View>
-      <Text style={{marginStart: 20}}>Bottom Tabs is disabled from default you need to enbale in the drawer menu</Text>
+      <Text style={{marginStart: 20}}>Bottom Tabs is disabled from default you need to enable in the drawer menu</Text>
     </View>
   )
 }
